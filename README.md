@@ -14,7 +14,7 @@ In the following command, replace /path_to_your_volume_folder
 
 ```docker run --rm -p 8888:8888 -v /path_to_your_volume_folder:/home/jovyan/work jupyter/all-spark-notebook```
 
-### Copy from shell the output of previous command docker run 
+### Run notebook from the shell output of previous command
 
 http://127.0.0.1:8888/?token=4ef80ae6f0f6d901e....590d0420f11a4127c9
 
