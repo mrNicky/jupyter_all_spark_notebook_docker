@@ -20,4 +20,4 @@ http://127.0.0.1:8888/?token=4ef80ae6f0f6d901e....590d0420f11a4127c9
 
 ### Careful
 
-When you run the jupyter notebook, save your notebooks inside work folder note outside if not you will lose all your works 
+When you run the jupyter notebook, save your notebooks inside work folder not outside if not you will lose all your works 
